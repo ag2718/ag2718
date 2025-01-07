@@ -1,4 +1,6 @@
-I'm Aarush, a student at MIT studying computer science and engineering along with physics. My current interests span software + systems engineering, ML/AI, and digital HW design — I also love working on problems at the intersections of these fields. Check out my pinned repositories to see some of the projects I've been working on!
+I'm Aarush, a student at MIT studying computer science and engineering along with physics. 
+
+My current interests span software + systems engineering, ML/AI, and digital HW design — I also love working on problems at the intersections of these fields. Check out my pinned repositories to see some of the projects I've been working on!
 
 Email: [aarushg@mit.edu](mailto:aarushg@mit.edu)
 
