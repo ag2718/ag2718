@@ -2,8 +2,7 @@
 
 I'm Aarush, a student at MIT studying computer science and engineering along with physics. My current interests span a wide variety of fields, including software + systems engineering, ML/AI, and digital HW design. Check out my pinned repositories and links below to see what I'm up to!
 
-Contact: [aarushg@mit.edu](mailto:aarushg@mit.edu)
-
+Email: [aarushg@mit.edu](mailto:aarushg@mit.edu)
 LinkedIn: [aarush-g](https://linkedin.com/in/aarush-g)
 
 <!--
